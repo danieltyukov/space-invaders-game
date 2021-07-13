@@ -5,7 +5,9 @@ The classic Space Invaders 1978 was created by Tomohiro Nishikado and was releas
 
 # Features
 The player can be moved left, right, up and down using the A, D, W and S keys.
+
 The player can shoot using the Space Key.
-The game can be paused (v1.1.2 onwards) with Enter key or Esc key.
+
 The player levels up with increase in number of enemies.
+
 The game also has FPS Tracking and Each Frame Render time in miliseconds and displays it in the game.
