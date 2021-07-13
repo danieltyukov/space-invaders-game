@@ -10,4 +10,4 @@ The player can shoot using the Space Key.
 
 The player levels up with increase in number of enemies.
 
-The game also has FPS Tracking and Each Frame Render time in miliseconds and displays it in the game.
+# Gameplay
