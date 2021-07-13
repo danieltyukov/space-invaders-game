@@ -14,4 +14,4 @@ The player levels up with increase in number of enemies.
 
 # Gameplay
 
-![Screenshot](assets/spaceinvaders.png)
+![Alt text](assets/spaceinvaders.PNG?raw=true "Space Invaders Game")
