@@ -11,7 +11,3 @@ The player can be moved left, right, up and down using the A, D, W and S keys.
 The player can shoot using the Space Key.
 
 The player levels up with increase in number of enemies.
-
-# Gameplay
-
-![Alt text](assets/spaceinvaders.PNG?raw=true "Space Invaders Game")
